@@ -18,7 +18,7 @@ This is part of my journey to build a **portfolio that speaks for itself**.
 ---
 ## ✅ Case Studies Completed
 
-- [Case Study #1: Danny’s Diner]
+- [Case Study #1: Danny’s Diner](./Case%20Study%20%231%20-%20Danny’s%20Diner/)
 
 
 ## 🛠️ Tools Used
